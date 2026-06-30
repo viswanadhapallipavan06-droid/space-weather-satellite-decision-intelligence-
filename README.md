@@ -1,4 +1,13 @@
-# 🚀 Decision Intelligence System for Satellite Constellation Optimization
+# 🚀 HELIONYX SYNC
+## Decision Intelligence System for Satellite Constellation Optimization
+
+## 🛰️ Live Dashboard
+
+[**View the interactive HELIONYX SYNC dashboard →**](https://viswanadhapallipavan06-droid.github.io/space-weather-satellite-decision-intelligence-/ISRO_SpaceWeather_3D.html)
+
+Fully interactive — hover, zoom, pan, and explore live satellite constellation decisions in real time.
+
+---
 
 ## 📌 Overview
 This project presents a Decision Intelligence System designed to optimize satellite constellation operations under space weather uncertainties. It integrates machine learning, space physics, and optimization techniques to predict radiation risks and improve satellite communication reliability.
