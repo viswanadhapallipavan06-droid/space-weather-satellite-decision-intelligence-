@@ -14,7 +14,7 @@ Fully interactive — hover, zoom, pan, and explore live satellite constellation
 
 ## 📊 Full Pipeline Output
 
-[**View Full Interactive Pipeline Output →**](https://viswanadhapallipavan06-droid.github.io/space-weather-decision-intelligence-dashboards/HELIONYX_SYNC_Full_Output_Report.html)
+[**View Full Interactive Pipeline Output →**](https://agent-6a451c60dbc575279--celadon-entremet-1f2548.netlify.app)
 
 Every cell's text and visual output in pipeline run order — all charts fully interactive.
 
